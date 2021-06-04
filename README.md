@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TamHug
+- 👀 I’m interested in developing games and expanding my coding skills
+- 🌱 I’m currently learning c++ at Yoobee
+- 💞️ I’m looking to collaborate on a range of projects
+- 📫 How to reach me 270007579@yoobeestudent.ac.nz
